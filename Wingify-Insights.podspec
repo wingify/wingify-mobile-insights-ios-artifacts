@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name              = "Wingify-Insights"
-  s.version           = "2.5.0"
+  s.version           = "2.6.0"
   s.summary           = "Wingify Insights SDK for understanding user behavior to build meaningful interactions"
   s.description       = "Wingify Insights SDK for understanding user behavior to build meaningful interactions."
   s.homepage          = "https://developers.vwo.com/reference/mobile-insights-ios-installation"
