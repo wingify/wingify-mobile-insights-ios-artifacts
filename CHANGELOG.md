@@ -11,3 +11,8 @@
    •  Enhanced Component Visibility Handling
    •  Multi-User Login and session continuity Support
    
+
+
+[VWO Insights SDK v2.6.1] 
+✨ What’s New
+   •  Improved the list operators support for Mobile Surveys.
