@@ -1,7 +1,7 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-let version = "2.6.1"
+let version = "2.7.0"
 
 let package = Package(
     name: "Wingify_Insights",
@@ -24,7 +24,7 @@ let package = Package(
         .binaryTarget(
             name: "Wingify_Insights",
             url: "https://github.com/wingify/wingify-mobile-insights-ios-artifacts/raw/\(version)/Wingify_Insights.xcframework.zip",
-            checksum: "66ef5e316a8fbc48f05e473a0361a97f4f420d70016abb25ae0ffa46586d1937")
+            checksum: "7b5a8f08eb8604a2744ab1f6bc0f3df246f5f353a5ff17e11611cab4cb56185d")
         
     ]
 )
