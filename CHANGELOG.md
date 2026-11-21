@@ -23,3 +23,8 @@
    •  Added support for new pricing plan - MAU (Monthly Active Users)
    •  Performance improvements and bug fixes
    •  Exposed getUUID() function
+
+
+[Wingify Insights SDK v2.7.1] 
+✨ What’s New
+   •  Security Improvements, Bug fixes and Performance optimizations.
